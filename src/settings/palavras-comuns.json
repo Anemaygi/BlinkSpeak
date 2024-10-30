@@ -1,0 +1,94 @@
+{
+    "keys": [
+        {
+            "backgroundColor": "#BF1F03",
+            "borderColor": "#E89797",
+            "textColor":"white",
+            "value": "EU"
+        },
+        {
+            "backgroundColor": "#74D377",
+            "borderColor": "#03BF2C",
+            "textColor":"white",
+            "value": "quero"
+        },
+        {
+            "backgroundColor": "#9C97E8",
+            "borderColor": "#1003BF",
+            "textColor":"white",
+            "value": "MAIS"
+        },
+        {
+            "backgroundColor": "#9C97E8",
+            "borderColor": "#1003BF",
+            "textColor":"white",
+            "value": "NÃO"
+        },
+        {
+            "backgroundColor": "#EEB559",
+            "borderColor": "#BFA303",
+            "textColor":"white",
+            "value": "AJUDA"
+        },
+        {
+            "backgroundColor": "#BF1F03",
+            "borderColor": "#E89797",
+            "textColor":"white",
+            "value": "VOCÊ"
+        },
+        {
+            "backgroundColor": "#74D377",
+            "borderColor": "#03BF2C",
+            "textColor":"white",
+            "value": "GOSTO"
+        },
+        {
+            "backgroundColor": "#9C97E8",
+            "borderColor": "#1003BF",
+            "textColor":"white",
+            "value": "MENOS"
+        },
+        {
+            "backgroundColor": "#9C97E8",
+            "borderColor": "#1003BF",
+            "textColor":"white",
+            "value": "SIM"
+        },
+        {
+            "backgroundColor": "#EEB559",
+            "borderColor": "#BFA303",
+            "textColor":"white",
+            "value": "OI"
+        },
+        {
+            "backgroundColor": "#BF1F03",
+            "borderColor": "#E89797",
+            "textColor":"white",
+            "value": "ELE/ELA"
+        },
+        {
+            "backgroundColor": "#74D377",
+            "borderColor": "#03BF2C",
+            "textColor":"white",
+            "value": "IR"
+        },
+        {
+            "backgroundColor": "#EEB559",
+            "borderColor": "#BFA303",
+            "textColor":"white",
+            "value": "COMIDA"
+        },
+        {
+            "backgroundColor": "#EEB559",
+            "borderColor": "#BFA303",
+            "textColor":"white",
+            "value": "BEBIDA"
+        },
+        {
+            "backgroundColor": "#EEB559",
+            "borderColor": "#BFA303",
+            "textColor":"white",
+            "value": "BANHEIRO"
+        }
+    ]
+}
